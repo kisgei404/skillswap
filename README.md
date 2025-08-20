@@ -66,17 +66,17 @@ All HTML/CSS files are W3C validated. Git history reflects consistent developmen
 
 ### Home Page
 
-![Home Page Screenshot](skillswap/assets/images/screenshots/home.png)
+![Home Page Screenshot](assets/images/screenshots/home.PNG)
 
 ### Skills Page
 
-![Skills Page Screenshot](skillswap/assets/images/screenshots/skills.png)
+![Skills Page Screenshot](assets/images/screenshots/skills.PNG)
 
 ### Gallery Page
 
-![Gallery Page Screenshot](skillswap/assets/images/screenshots/gallery.png)
+![Gallery Page Screenshot](assets/images/screenshots/gallery.PNG)
 
 ### Add Skill Page
 
-![Add Skill Page Screenshot](skillswap/assets/images/screenshots/add_skill.png)
+![Add Skill Page Screenshot](assets/images/screenshots/add_skill.PNG)
 

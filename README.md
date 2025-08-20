@@ -42,13 +42,13 @@ SkillSwap/
 
 ## Local Setup
 
-1.  **Clone:** `git clone `
+1.  **Clone:** `git clone [YOUR_REPOSITORY_URL_HERE]`
 2.  **Navigate:** `cd SkillSwap`
 3.  **Open:** Open `index.html` in your browser.
 
 ## Deployment
 
-This project is deployed to a Coreteaching web server. Live site URL: 
+This project is deployed to a Coreteaching web server. Live site URL: [YOUR_LIVE_SITE_URL_HERE]
 
 ## Validation & Git
 
@@ -56,7 +56,27 @@ All HTML/CSS files are W3C validated. Git history reflects consistent developmen
 
 ## Contact
 
--   **Student ID:** 
--   **Name:** 
+-   **Student ID:** [YOUR_STUDENT_ID_HERE]
+-   **Name:** [YOUR_NAME_HERE]
 
+
+
+
+## Screenshots
+
+### Home Page
+
+![Home Page Screenshot](assets/images/screenshots/home.png)
+
+### Skills Page
+
+![Skills Page Screenshot](assets/images/screenshots/skills.png)
+
+### Gallery Page
+
+![Gallery Page Screenshot](assets/images/screenshots/gallery.png)
+
+### Add Skill Page
+
+![Add Skill Page Screenshot](assets/images/screenshots/add_skill.png)
 
